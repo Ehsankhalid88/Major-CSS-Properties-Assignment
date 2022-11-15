@@ -1,0 +1,40 @@
+.main {
+    margin: 20px;
+    margin-bottom: 10px;
+    padding: 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+    border-width: 5px;
+}
+
+
+/*header sections styling*/
+h1{
+    font-size: 18px;
+    text-align: center;
+}
+/*styling of first section*/
+.first{
+    color: green;
+    font-size: 14px;
+    text-align: left;
+}
+
+/*stylind of the second section*/
+.second{
+    color: red;
+    font-size: 14px;
+    text-align: left;
+}
+
+/*styling of the third section*/
+.third{
+    color: blue;
+    font-size: 14px;
+    text-align: left;
+}
+/*img styling*/
+img{
+   display: block; 
+   margin: auto;
+}
